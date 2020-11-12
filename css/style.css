@@ -1,0 +1,18 @@
+
+.bold{
+    font-weight: bold !important;
+}
+
+.line-through{
+   text-decoration: line-through;
+}
+.underline{
+    text-decoration: underline;
+}
+
+.italic{
+    font-style: italic;
+}
+.active{
+    background-color: #0b4a64 !important;
+}
